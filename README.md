@@ -29,7 +29,7 @@
 ## 📸 Demo Screenshot
 
 <p align="center">
-  <img src="" width="500" alt="Rock Paper Scissors Game UI">
+  <img src="" width="500" https://github.com/user-attachments/assets/b7888479-1189-4fa5-bacf-d0f277918ff0 alt="Rock Paper Scissors Game UI">
 </p>
 
 ---
